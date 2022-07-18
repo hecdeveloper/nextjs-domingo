@@ -5,9 +5,9 @@ const About = () => {
   return (
     <div>
       <Navbar />
-      <p>Esta es la pagina de about</p>
+      <h1>Esta es la pagina de about</h1>
     </div>
   );
 };
 
-export default About;
+ export default About;
